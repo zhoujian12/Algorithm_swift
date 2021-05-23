@@ -6,5 +6,6 @@
         <page name='1. 两数之和'/>
         <page name='5. 最长的回文子串'/>
         <page name='3. 最长字串'/>
+        <page name='剑指 Offer 19. 正则表达式匹配'/>
     </pages>
 </playground>
